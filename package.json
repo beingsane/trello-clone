@@ -1,5 +1,7 @@
 {
   "name": "trello-clone",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "sweetalert2": "6.6.6"
+  }
 }
