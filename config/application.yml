@@ -1,5 +1,0 @@
-development:
-  username_db: 'eric'
-  password_db: 'goias2000'
-  DB_URL: 'localhost'
-  database_db: 'testes-local'
